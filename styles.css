@@ -1,0 +1,32 @@
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    background: #e0f7fa;
+}
+header {
+    background: #006064;
+    color: #e0f7fa;
+    padding: 1em;
+    text-align: center;
+}
+nav ul {
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+nav ul li a {
+    color: #e0f7fa;
+    text-decoration: none;
+}
+footer {
+    background: #006064;
+    color: #e0f7fa;
+    text-align: center;
+    padding: 1em 0;
+}
+        
